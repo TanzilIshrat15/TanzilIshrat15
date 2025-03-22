@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TanzilIshrat15
 - 💞️ who am i ?  A tech enthusiast from an Electronics and Communication background who loves coding and building software projects.
 - 👀 what i do ? I strive to combine aesthetics and functionality in my web development projects to deliver an exceptional user experience.
-- 📫 what i am learning ? I’m learning DSA to enhance my problem-solving and coding skills."
+- 📫 what i am learning ? I’m learning DSA to enhance my problem-solving and coding skills.
 - 🌱 How i am learning ? As a self-motivated learner, I use various resources, including YouTube tutorials, to enhance my understanding and resolve any doubts I encounter.
 - ⚡ Everyday be like :  Eat Sleep Code Repeat 🔁
 - 💞️ I’m looking to collaborate on front-end development projects that focus on creating user-friendly and interactive web applications.
