@@ -6,9 +6,6 @@
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/tanzilishrat)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:tanzilishrat@gmail.com)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-black?logo=stackoverflow)](https://stackoverflow.com/users)
-[![CodePen](https://img.shields.io/badge/CodePen-white?logo=codepen)](https://codepen.io/)
-[![Reddit](https://img.shields.io/badge/Reddit-orange?logo=reddit)](https://reddit.com/)
 
 ---
 
@@ -19,9 +16,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node-dot-js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap)
@@ -42,21 +36,9 @@
 
 ---
 
-### 📚 Learning Journey
-- Expanding knowledge in **Java 8, Spring Boot, and REST APIs**  
-- Building projects using **MERN Stack** (MongoDB, Express, React, Node.js)  
-- Practicing **DSA and problem solving** for better logic building  
-- Learning **UI/UX design principles** using Figma  
-- Exploring **Open Source** contributions  
 
----
 
-### 📊 GitHub Stats
-![Tanzil Ishrat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanzilishrat&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilishrat&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanzilishrat&theme=tokyonight)
 
----
 
 ### 🧠 Quote of the Day
 > “Keep learning, keep building — every small effort adds up to success.”
