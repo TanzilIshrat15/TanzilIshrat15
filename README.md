@@ -1,7 +1,7 @@
 <!-- 🌸 T A N Z I L  I S H R A T - G I T H U B  P R O F I L E 🌸 -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#6C63FF;">Tanzil Ishrat</span></h1>
-<h3 align="center">💻 A Tech Enthusiast | Web Developer | Lifelong Learner</h3>
+<h3 align="center">💻 A Tech Enthusiast | Web Developer | Software Developer |  Lifelong Learner</h3>
 
 ---
 
@@ -54,7 +54,7 @@
 <ul>
   <li>🌱 Improving my problem-solving using <strong>Data Structures and Algorithms (DSA)</strong>.</li>
   <li>💻 Exploring <strong>Java 8 features</strong> and backend development with <strong>Spring Boot</strong>.</li>
-  <li>🚀 Working on <strong>MERN Stack projects</strong> to strengthen my full-stack skills.</li>
+  <li>🚀 Working on <strong>Java Full Stack projects</strong> to strengthen my full-stack skills.</li>
   <li>🎨 Enhancing my <strong>UI/UX design</strong> knowledge using <strong>Figma</strong>.</li>
   <li>💬 Sharing knowledge through <strong>English Learning YouTube content</strong> and open-source contributions.</li>
 </ul>
