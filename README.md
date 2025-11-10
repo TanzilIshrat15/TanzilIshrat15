@@ -85,17 +85,7 @@
 
 ---
 
-## 🌟 Contributions & Highlights
-<ul>
-  <li>✨ Actively contributing to open source projects that focus on clean UI, reusable components, and developer-friendly code.</li>
-  <li>🛠️ Building full stack applications using Java, Spring Boot, React, and MySQL to strengthen real-world development skills.</li>
-  <li>🚀 Updating GitHub regularly with new projects, refactoring, and clean code improvements.</li>
-  <li>📚 Creating beginner-friendly repositories that help others understand HTML, CSS, JavaScript, and Java backend basics.</li>
-  <li>💡 Writing meaningful commits instead of random activity, focusing on improvements that actually matter.</li>
-  <li>🤝 Open to collaborations on front-end and full-stack projects with focus on aesthetics and performance.</li>
-  <li>📘 Sharing knowledge through YouTube English-learning content and helping new learners grow.</li>
-</ul>
-If you want, I can add activity graph, snake animation, more sections, or icons too.
+
 
 
 ---
@@ -120,10 +110,6 @@ If you want, I can add activity graph, snake animation, more sections, or icons 
 
 ---
 
-## 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TanzilIshrat15/TanzilIshrat15/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 ---
 
@@ -156,7 +142,6 @@ If you want, I can add activity graph, snake animation, more sections, or icons 
   <li>🔥 Become a strong Java backend developer with solid Spring Boot mastery.</li>
   <li>🚀 Contribute to at least 10 open-source repositories.</li>
   <li>📘 Build 5+ unique full-stack applications.</li>
-  <li>🎥 Grow my YouTube channel and teach coding concepts simply.</li>
   <li>💼 Secure a Java developer role and keep leveling up every day.</li>
 </ul>
 
