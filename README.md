@@ -81,7 +81,7 @@
 
 ---
 
-<h2 align="center">⚡ Just Code and Chill 😎</h2>
+
 
 ---
 
@@ -113,10 +113,7 @@
 
 ---
 
-## 🏆 GitHub Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanzilIshrat15&theme=tokyonight&margin-w=10&margin-h=10&row=1" />
-</p>
+
 
 ---
 
@@ -144,5 +141,6 @@
   <li>📘 Build 5+ unique full-stack applications.</li>
   <li>💼 Secure a Java developer role and keep leveling up every day.</li>
 </ul>
+ <h2 align="center">⚡ Just Code and Chill 😎</h2>
 
 ---
